@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Library Holding App</string>
+    <string name="account_btn">Create Account</string>
+    <string name="hold_btn">Place Hold</string>
+    <string name="manage_btn">Manage System</string>
+    <string name="log_btn">Check Logs</string>
+    <string name="add_book_btn">Add Book</string>
+
+    <string-array name="genre_array">
+        <item>Computer Science</item>
+        <item>Fiction</item>
+        <item>Memoir</item>
+    </string-array>
+
+</resources>
